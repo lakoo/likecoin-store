@@ -58,7 +58,7 @@
     "csurf": "^1.9.0",
     "date-fns": "^1.29.0",
     "express": "^4.17.0",
-    "gsap": "^3.0.4",
+    "gsap": "^3.6.0",
     "helmet": "^3.21.2",
     "http-proxy-middleware": "^0.20.0",
     "image-type": "^3.0.0",
