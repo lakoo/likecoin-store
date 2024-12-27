@@ -267,5 +267,16 @@ export default {
       line-height: 1.5;
     }
   }
+  & input {
+    width: 100%;
+
+    margin-top: 8px;
+    padding: 8px;
+
+    border: 2px solid #ccc;
+    border-radius: 4px;
+
+    font-size: 16px;
+  }
 }
 </style>
